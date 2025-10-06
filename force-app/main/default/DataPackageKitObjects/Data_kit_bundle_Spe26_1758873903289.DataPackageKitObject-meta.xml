@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataPackageKitObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <masterLabel>Data_kit_bundle_Spe26</masterLabel>
+    <parentDataPackageKitDefinitionName>Data_kit_bundle_Spe26</parentDataPackageKitDefinitionName>
+    <referenceObjectName>Databundlesep26</referenceObjectName>
+    <referenceObjectType>DataSourceBundleDefinition</referenceObjectType>
+</DataPackageKitObject>

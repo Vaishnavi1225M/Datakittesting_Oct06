@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataKitObjectDependency xmlns="http://soap.sforce.com/2006/04/metadata">
+    <dataPackageKitDef>Data_kit_bundleNew_Spe26</dataPackageKitDef>
+    <developerName>DATACLOUDTESTORG</developerName>
+    <masterLabel>DATACLOUDTESTORG</masterLabel>
+    <sourceObject>DATA_Snowflake_1758875282186</sourceObject>
+    <sourceObjectType>DataStreamTemplate</sourceObjectType>
+    <targetObject>DATACLOUDTESTORG</targetObject>
+</DataKitObjectDependency>

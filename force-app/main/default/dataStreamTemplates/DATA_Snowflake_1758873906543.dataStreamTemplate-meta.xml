@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataStreamTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <dataSourceBundleDefinition>Databundlesep26</dataSourceBundleDefinition>
+    <dataSourceObject>DATA_Snowflake1</dataSourceObject>
+    <masterLabel>DATA_Snowflake</masterLabel>
+    <objectCategory>Salesforce_SFDCReferenceModel_0_93.Profile</objectCategory>
+    <refreshFrequency>DAILY</refreshFrequency>
+    <refreshHours>6</refreshHours>
+    <refreshMode>FULL_REFRESH</refreshMode>
+    <sourceObjectName>DATA_Snowflake</sourceObjectName>
+    <streamType>DIRECT_ACCESS_ACCELERATED</streamType>
+    <templateVersion>1</templateVersion>
+</DataStreamTemplate>
