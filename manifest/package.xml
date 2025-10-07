@@ -71,6 +71,5 @@
         <members>DATA_Snowflake_1758875282186</members>
         <name>DataStreamTemplate</name>
     </types>
-    <version>63.0</version>
+    <version>64.0</version>
 </Package>
---testVM--
